@@ -2,11 +2,17 @@
 This course takes me on a deep dive into how LLM technology actually works, including many of the technical details, like model training, instruction tuning, fine-tuning, the generative AI project life cycle framework to help me plan and execute my projects, and so on.
 
 **Week-1:** 
+
 **i** Examine the transformer architecture that powers large language models 
+
 **ii** Explore how these models are trained, and 
+
 **iii** Understand the computing resources required to develop these powerful LLMs.
+
 **vi** Learn about a technique called in-context learning
+
 **v** How to guide the model to output at inference time with prompt engineering, and 
+
 **vi** how to tune the most important generation parameters of LLMs to tune your model output.
 
 In Week 2,
