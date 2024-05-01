@@ -1,4 +1,4 @@
-# Generative-AI-with-LLM
+![image](https://github.com/tashinhoss/Generative-AI-with-LLM/assets/82747136/e45c5c45-ea7e-4901-b141-84a54ccae9e7)![image](https://github.com/tashinhoss/Generative-AI-with-LLM/assets/82747136/c0c0bcc4-2cd5-4b06-8ef0-042fd05741cb)# Generative-AI-with-LLM
 This course takes me on a deep dive into how LLM technology actually works, including many of the technical details, like model training, instruction tuning, fine-tuning, the generative AI project life cycle framework to help me plan and execute my projects, and so on.
 
 #### **Week-1:** 
@@ -10,8 +10,24 @@ This course takes me on a deep dive into how LLM technology actually works, incl
 **v** How to guide the model to output at inference time with prompt engineering, and <br>
 **vi** how to tune the most important generation parameters of LLMs to tune your model output.
 
-<img src="images/LLM_Examples.PNG" alt="Image Alt Text" width="300px">
-<img src="images/image.png" alt="Image Alt Text" width="300px">
+<img src="images/LLM_Examples.PNG" alt="Image Alt Text" width="400px">
+<img src="images/image.png" alt="Image Alt Text" width="400px">
+**LLM Usecases and Tasks:** <br>
+*1. Asking a Model to write an essay*
+<img src="images/essaywriter.PNG" alt="Image Alt Text" width="400px">
+*2. Text Summarization*
+<img src="images/summarization.PNG" alt="Image Alt Text" width="400px">
+*3. Translation*
+<img src="images/translator.PNG" alt="Image Alt Text" width="400px">
+*4. Natural Language to Machine Code*
+<img src="images/CodeAI.PNG" alt="Image Alt Text" width="400px">
+*4. Entity Extraction*
+<img src="images/entityextraction.PNG" alt="Image Alt Text" width="400px">
+*5. Augmentation of LLM with External Data Sources*
+<img src="images/flightinformation.PNG" alt="Image Alt Text" width="400px">
+
+
+
 
 In Week 2,
 you'll explore options for adapting pre-trained models to specific tasks and datasets via a process called instruction fine-tuning.
