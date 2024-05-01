@@ -1,7 +1,7 @@
 # Generative-AI-with-LLM
 This course takes me on a deep dive into how LLM technology actually works, including many of the technical details, like model training, instruction tuning, fine-tuning, the generative AI project life cycle framework to help me plan and execute my projects, and so on.
 
-# **Week-1:** 
+#### **Week-1:** 
 
 **i** Examine the transformer architecture that powers large language models <br>
 **ii** Explore how these models are trained, and <br>
