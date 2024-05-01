@@ -1,4 +1,4 @@
-# Generative-AI-with-LLM
+# Generative-AI-with-LLMs
 This course takes me on a deep dive into how LLM technology actually works, including many of the technical details, like model training, instruction tuning, fine-tuning, the generative AI project life cycle framework to help me plan and execute my projects, and so on.
 
 #### **Week-1:** 
@@ -12,6 +12,8 @@ This course takes me on a deep dive into how LLM technology actually works, incl
 
 <img src="images/LLM_Examples.PNG" alt="Image Alt Text" width="400px">
 <img src="images/image.png" alt="Image Alt Text" width="400px">
+**Summary of In-context Learning** <br>
+<img src="images/summary of in-context learning.PNG" alt="Image Alt Text" width="400px">
 **LLM Usecases and Tasks:** <br>
 1. *Asking a Model to write an essay*
 <img src="images/essaywriter.PNG" alt="Image Alt Text" width="400px">
