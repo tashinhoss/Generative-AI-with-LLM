@@ -4,7 +4,7 @@ This course takes me on a deep dive into how LLM technology actually works, incl
 #### **Week-1:** 
 
 **i** Examine the transformer architecture that powers large language models <br>
-![Image](images/image.png)
+![Image](images/image.png){: width="100px"}
 **ii** Explore how these models are trained, and <br>
 **iii** Understand the computing resources required to develop these powerful LLMs <br>
 **vi** Learn about a technique called in-context learning <br>
