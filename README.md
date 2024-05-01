@@ -45,14 +45,14 @@ You'll play with both full fine-tuning and parameter-efficient fine-tuning, or P
 You'll see how PEFT lets you make your workflow much more efficient.
 
 In the third lab, 
-you get hands-on with reinforcement learning from human feedback or RLHF, you'll build a reward model classifier to label model responses as either toxic or non-toxic.
+you get hands-on with reinforcement learning from human feedback or RLHF; you'll build a reward model classifier to label model responses as either toxic or non-toxic.
 
 ##### **Course Instructors** <br>
 1. Ehsan Kamalinejad, Ph.D. <br>
 Machine Learning Applied Scientist, AWS <br>
 2. Nashlie Sephus, Ph.D. <br>
 Principal Technology Evangelist for Amazon AI, AWS <br>
-3.Saleh Soltan, Ph.D. <br>
+3. Saleh Soltan, Ph.D. <br>
 Senior Applied Scientist, Amazon Alexa <br>
 4. Heiko Hotz <br>
 Senior Solutions Architect for AI & Machine Learning, AWS <br>
