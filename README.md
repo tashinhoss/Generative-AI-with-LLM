@@ -10,8 +10,8 @@ This course takes me on a deep dive into how LLM technology actually works, incl
 **v** How to guide the model to output at inference time with prompt engineering, and <br>
 **vi** how to tune the most important generation parameters of LLMs to tune your model output.
 
-<img src="images/LLM_Examples.png" alt="Image Alt Text" width="100px">
-<img src="images/image.png" alt="Image Alt Text" width="100px">
+<img src="images/LLM_Examples.PNG" alt="Image Alt Text" width="300px">
+<img src="images/image.png" alt="Image Alt Text" width="300px">
 
 In Week 2,
 you'll explore options for adapting pre-trained models to specific tasks and datasets via a process called instruction fine-tuning.
