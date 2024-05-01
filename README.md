@@ -4,12 +4,14 @@ This course takes me on a deep dive into how LLM technology actually works, incl
 #### **Week-1:** 
 
 **i** Examine the transformer architecture that powers large language models <br>
-![Image](images/image.png){: width="60x"}
 **ii** Explore how these models are trained, and <br>
 **iii** Understand the computing resources required to develop these powerful LLMs <br>
 **vi** Learn about a technique called in-context learning <br>
 **v** How to guide the model to output at inference time with prompt engineering, and <br>
 **vi** how to tune the most important generation parameters of LLMs to tune your model output.
+
+<img src="images/LLM_Examples.png" alt="Image Alt Text" width="100px">
+<img src="images/image.png" alt="Image Alt Text" width="100px">
 
 In Week 2,
 you'll explore options for adapting pre-trained models to specific tasks and datasets via a process called instruction fine-tuning.
