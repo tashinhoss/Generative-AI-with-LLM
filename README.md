@@ -1,4 +1,4 @@
-![image](https://github.com/tashinhoss/Generative-AI-with-LLM/assets/82747136/e45c5c45-ea7e-4901-b141-84a54ccae9e7)![image](https://github.com/tashinhoss/Generative-AI-with-LLM/assets/82747136/c0c0bcc4-2cd5-4b06-8ef0-042fd05741cb)# Generative-AI-with-LLM
+# Generative-AI-with-LLM
 This course takes me on a deep dive into how LLM technology actually works, including many of the technical details, like model training, instruction tuning, fine-tuning, the generative AI project life cycle framework to help me plan and execute my projects, and so on.
 
 #### **Week-1:** 
@@ -13,7 +13,7 @@ This course takes me on a deep dive into how LLM technology actually works, incl
 <img src="images/LLM_Examples.PNG" alt="Image Alt Text" width="400px">
 <img src="images/image.png" alt="Image Alt Text" width="400px">
 **LLM Usecases and Tasks:** <br>
-*1. Asking a Model to write an essay*
+1. *Asking a Model to write an essay*
 <img src="images/essaywriter.PNG" alt="Image Alt Text" width="400px">
 *2. Text Summarization*
 <img src="images/summarization.PNG" alt="Image Alt Text" width="400px">
